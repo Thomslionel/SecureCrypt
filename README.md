@@ -16,15 +16,6 @@ SecureCrypt est une application de cryptographie conçue pour offrir des solutio
 * Si le mot de passe est incorrect ou si le fichier est corrompu, une erreur sera levée.
 * L'application ne prend en charge que les fichiers individuels (pas de dossiers).
 
-
-## Structure du projet
-Crypto/
-├── application/
-│   ├── [cryptoManager.py] # Gestion du chiffrement et du déchiffrement
-│   ├── [interfaceUser.py] # Interface utilisateur avec Tkinter
-│   ├── [main.py] # Point d'entrée principal de l'application
-│   └── image/
-│       └── splash.png         # Image pour l'écran de démarrage
 ## Prérequis
 
 - **Système d'exploitation** : Windows, macOS ou Linux.
