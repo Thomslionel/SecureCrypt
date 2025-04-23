@@ -1,0 +1,6 @@
+python
+os
+PIL
+tkinter
+pathlib
+pycryptodome
